@@ -1,10 +1,11 @@
-Для сборки программы Pangrams необходимо установить Java SE Development Kit 8u202, 
-который доступен по ссылке https://www.oracle.com/technetwork/es/java/javase/downloads/jdk8-downloads-2133151.html
+Р”Р»СЏ СЃР±РѕСЂРєРё РїСЂРѕРіСЂР°РјРјС‹ Pangrams РЅРµРѕР±С…РѕРґРёРјРѕ СѓСЃС‚Р°РЅРѕРІРёС‚СЊ Java SE Development Kit 8u202, 
+РєРѕС‚РѕСЂС‹Р№ РґРѕСЃС‚СѓРїРµРЅ РїРѕ СЃСЃС‹Р»РєРµ:
+https://www.oracle.com/technetwork/es/java/javase/downloads/jdk8-downloads-2133151.html
 
-Для сборки запустить скрипт build.bat
+Р”Р»СЏ СЃР±РѕСЂРєРё Р·Р°РїСѓСЃС‚РёС‚СЊ СЃРєСЂРёРїС‚ build.bat
 
+Р”Р»СЏ Р·Р°РїСѓСЃРєР° РїСЂРѕРіСЂР°РјРјС‹ РЅРµРѕР±С…РѕРґРёРјРѕ СѓСЃС‚Р°РЅРѕРІРёС‚СЊ Java SE Runtime Environment 8u202, 
+РєРѕС‚РѕСЂС‹Р№ РґРѕСЃС‚СѓРїРµРЅ РїРѕ СЃСЃС‹Р»РєРµ:
+https://www.oracle.com/technetwork/java/javase/downloads/2133155
 
-Для запуска программы необходимо установить Java SE Runtime Environment 8u202, 
-который доступен по ссылке https://www.oracle.com/technetwork/java/javase/downloads/2133155
-
-Для запуска использовать скрипт Pangrams.bat, находящийся в директории Pangrams/bin
+Р”Р»СЏ Р·Р°РїСѓСЃРєР° РёСЃРїРѕР»СЊР·РѕРІР°С‚СЊ СЃРєСЂРёРїС‚ Pangrams, РЅР°С…РѕРґСЏС‰РёР№СЃСЏ РІ РґРёСЂРµРєС‚РѕСЂРёРё Pangrams/bin
